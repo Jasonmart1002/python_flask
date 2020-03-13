@@ -4,7 +4,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+<<<<<<< HEAD
 pylint = "<2.0.0"
+=======
+pylint = "*"
+>>>>>>> a30952d6721536df077c2d924f74a20efe35a522
 
 [packages]
 flask = "*"
